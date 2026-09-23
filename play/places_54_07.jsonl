@@ -777,3 +777,6 @@
 {"n":777,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north slip. arc left open. 3 steps. The drum stays for the start."}
 {"n":778,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at Ward gate. Nobody past the north slip. We start in 4 steps. Arc on the left lane, open."}
 {"n":779,"kind":"place","name":"Ward gate north slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate north slip. Bess keeps the drum for the start. 5 steps, arc on the left lane, open."}
+{"n":780,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north slip. arc left open. 6 steps. The drum stays for the start."}
+{"n":781,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at Kessler alley. Nobody past the north slip. We start in 7 steps. Arc on the left lane, open."}
+{"n":782,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley north slip. Matt keeps the drum for the start. 8 steps, arc on the left lane, open."}
