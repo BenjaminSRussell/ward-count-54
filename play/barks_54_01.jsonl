@@ -287,3 +287,6 @@
 {"n":287,"kind":"place","name":"the Underpass south roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass south roof. Bess keeps the rope for the start. 2 steps, arc on the left lane, open."}
 {"n":288,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south roof. arc left open. 3 steps. The rope stays for the start."}
 {"n":289,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at Mast yard. Nobody past the south roof. We start in 4 steps. Arc on the left lane, open."}
+{"n":290,"kind":"place","name":"Mast yard south roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard south roof. Matt keeps the rope for the start. 5 steps, arc on the left lane, open."}
+{"n":291,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south roof. arc left open. 6 steps. The rope stays for the start."}
+{"n":292,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rope at Mast yard. Nobody past the south roof. We start in 7 steps. Arc on the left lane, open."}
