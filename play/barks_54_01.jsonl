@@ -455,3 +455,6 @@
 {"n":455,"kind":"place","name":"the Underpass south roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass south roof. Bess keeps the shutter for the start. 2 steps, arc on the left lane, open."}
 {"n":456,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south roof. arc left open. 3 steps. The shutter stays for the start."}
 {"n":457,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at Mast yard. Nobody past the south roof. We start in 4 steps. Arc on the left lane, open."}
+{"n":458,"kind":"place","name":"Mast yard south roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mast yard south roof. Matt keeps the shutter for the start. 5 steps, arc on the left lane, open."}
+{"n":459,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south roof. arc left open. 6 steps. The shutter stays for the start."}
+{"n":460,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at Mast yard. Nobody past the south roof. We start in 7 steps. Arc on the left lane, open."}
