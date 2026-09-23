@@ -192,3 +192,6 @@
 {"n":192,"kind":"place","name":"Mast yard south slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard south slip. Ivo keeps the rebar for the start. 4 steps, arc on the left lane, open."}
 {"n":193,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south slip. arc left open. 5 steps. The rebar stays for the start."}
 {"n":194,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at Mast yard. Nobody past the south slip. We start in 6 steps. Arc on the left lane, open."}
+{"n":195,"kind":"place","name":"Mast yard south slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard south slip. Bess keeps the rebar for the start. 7 steps, arc on the left lane, open."}
+{"n":196,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south slip. arc left open. 8 steps. The rebar stays for the start."}
+{"n":197,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at Last Light. Nobody past the south slip. We start in 2 steps. Arc on the left lane, open."}
