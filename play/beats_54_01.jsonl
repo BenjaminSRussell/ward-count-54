@@ -571,3 +571,6 @@
 {"n":571,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at Kessler alley. Nobody past the south roof. We start in 6 steps. Arc on the left lane, open."}
 {"n":572,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley south roof. Ivo keeps the awning for the start. 7 steps, arc on the left lane, open."}
 {"n":573,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south roof. arc left open. 8 steps. The awning stays for the start."}
+{"n":574,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at Kessler alley. Nobody past the south roof. We start in 2 steps. Arc on the left lane, open."}
+{"n":575,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley south roof. Bess keeps the awning for the start. 3 steps, arc on the left lane, open."}
+{"n":576,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south roof. arc left open. 4 steps. The awning stays for the start."}
