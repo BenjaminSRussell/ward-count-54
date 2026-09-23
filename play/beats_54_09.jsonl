@@ -824,3 +824,6 @@
 {"n":824,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at Stockyard fence. Nobody past the south slip. We start in 6 steps. Arc on the left lane, open."}
 {"n":825,"kind":"place","name":"Stockyard fence south slip","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence south slip. Nia keeps the drum for the start. 7 steps, arc on the left lane, open."}
 {"n":826,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south slip. arc left open. 8 steps. The drum stays for the start."}
+{"n":827,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at Stockyard fence. Nobody past the south slip. We start in 2 steps. Arc on the left lane, open."}
+{"n":828,"kind":"place","name":"Stockyard fence south slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence south slip. Ivo keeps the drum for the start. 3 steps, arc on the left lane, open."}
+{"n":829,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south slip. arc left open. 4 steps. The drum stays for the start."}
