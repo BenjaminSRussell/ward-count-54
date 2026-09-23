@@ -393,3 +393,6 @@
 {"n":393,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south roof. arc left open. 3 steps. The shutter stays for the start."}
 {"n":394,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at Ward gate. Nobody past the south roof. We start in 4 steps. Arc on the left lane, open."}
 {"n":395,"kind":"place","name":"Ward gate south roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Ward gate south roof. Bess keeps the shutter for the start. 5 steps, arc on the left lane, open."}
+{"n":396,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south roof. arc left open. 6 steps. The shutter stays for the start."}
+{"n":397,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at Kessler alley. Nobody past the south roof. We start in 7 steps. Arc on the left lane, open."}
+{"n":398,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Kessler alley south roof. Matt keeps the shutter for the start. 8 steps, arc on the left lane, open."}
