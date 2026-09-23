@@ -379,3 +379,6 @@
 {"n":379,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rope at the pier. Nobody past the north slip. We start in 4 steps. Arc on the left lane, open."}
 {"n":380,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier north slip. Ivo keeps the rope for the start. 5 steps, arc on the left lane, open."}
 {"n":381,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north slip. arc left open. 6 steps. The rope stays for the start."}
+{"n":382,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at the pier. Nobody past the north slip. We start in 7 steps. Arc on the left lane, open."}
+{"n":383,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier north slip. Bess keeps the rope for the start. 8 steps, arc on the left lane, open."}
+{"n":384,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north slip. arc left open. 2 steps. The rope stays for the start."}
