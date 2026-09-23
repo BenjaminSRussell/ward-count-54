@@ -327,3 +327,6 @@
 {"n":327,"kind":"place","name":"Stockyard fence south slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Stockyard fence south slip. Bess keeps the rope for the start. 6 steps, arc on the left lane, open."}
 {"n":328,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, south slip. arc left open. 7 steps. The rope stays for the start."}
 {"n":329,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at Mall court. Nobody past the south slip. We start in 8 steps. Arc on the left lane, open."}
+{"n":330,"kind":"place","name":"Mall court south slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mall court south slip. Matt keeps the rope for the start. 2 steps, arc on the left lane, open."}
+{"n":331,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, south slip. arc left open. 3 steps. The rope stays for the start."}
+{"n":332,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rope at Mall court. Nobody past the south slip. We start in 4 steps. Arc on the left lane, open."}
