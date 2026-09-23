@@ -879,3 +879,6 @@
 {"n":879,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at South stair. Nobody past the south slip. We start in 6 steps. Arc on the left lane, open."}
 {"n":880,"kind":"place","name":"South stair south slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"South stair south slip. Ivo keeps the crate for the start. 7 steps, arc on the left lane, open."}
 {"n":881,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south slip. arc left open. 8 steps. The crate stays for the start."}
+{"n":882,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at South stair. Nobody past the south slip. We start in 2 steps. Arc on the left lane, open."}
+{"n":883,"kind":"place","name":"South stair south slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"South stair south slip. Bess keeps the crate for the start. 3 steps, arc on the left lane, open."}
+{"n":884,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south slip. arc left open. 4 steps. The crate stays for the start."}
