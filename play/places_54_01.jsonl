@@ -741,3 +741,6 @@
 {"n":741,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south roof. arc left open. 8 steps. The drum stays for the start."}
 {"n":742,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at Kessler alley. Nobody past the south roof. We start in 2 steps. Arc on the left lane, open."}
 {"n":743,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley south roof. Bess keeps the drum for the start. 3 steps, arc on the left lane, open."}
+{"n":744,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south roof. arc left open. 4 steps. The drum stays for the start."}
+{"n":745,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at the Lot. Nobody past the south roof. We start in 5 steps. Arc on the left lane, open."}
+{"n":746,"kind":"place","name":"the Lot south roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Lot south roof. Matt keeps the drum for the start. 6 steps, arc on the left lane, open."}
