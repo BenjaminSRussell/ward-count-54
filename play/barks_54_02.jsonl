@@ -607,3 +607,6 @@
 {"n":607,"kind":"place","name":"Stockyard fence west slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Stockyard fence west slip. Bess keeps the barrel for the start. 6 steps, arc on the left lane, open."}
 {"n":608,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west slip. arc left open. 7 steps. The barrel stays for the start."}
 {"n":609,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Mall court. Nobody past the west slip. We start in 8 steps. Arc on the left lane, open."}
+{"n":610,"kind":"place","name":"Mall court west slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mall court west slip. Matt keeps the barrel for the start. 2 steps, arc on the left lane, open."}
+{"n":611,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, west slip. arc left open. 3 steps. The barrel stays for the start."}
+{"n":612,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at Mall court. Nobody past the west slip. We start in 4 steps. Arc on the left lane, open."}
