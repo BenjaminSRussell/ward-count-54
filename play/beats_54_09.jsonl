@@ -173,3 +173,6 @@
 {"n":173,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at the Underpass. Nobody past the south slip. We start in 6 steps. Arc on the left lane, open."}
 {"n":174,"kind":"place","name":"the Underpass south slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass south slip. Matt keeps the rebar for the start. 7 steps, arc on the left lane, open."}
 {"n":175,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south slip. arc left open. 8 steps. The rebar stays for the start."}
+{"n":176,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at the Underpass. Nobody past the south slip. We start in 2 steps. Arc on the left lane, open."}
+{"n":177,"kind":"place","name":"the Underpass south slip","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass south slip. Nia keeps the rebar for the start. 3 steps, arc on the left lane, open."}
+{"n":178,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south slip. arc left open. 4 steps. The rebar stays for the start."}
