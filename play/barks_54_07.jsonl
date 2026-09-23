@@ -215,3 +215,6 @@
 {"n":215,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier north slip. Bess keeps the rebar for the start. 8 steps, arc on the left lane, open."}
 {"n":216,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north slip. arc left open. 2 steps. The rebar stays for the start."}
 {"n":217,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at Clinic roof. Nobody past the north slip. We start in 3 steps. Arc on the left lane, open."}
+{"n":218,"kind":"place","name":"Clinic roof north slip","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Clinic roof north slip. Matt keeps the rebar for the start. 4 steps, arc on the left lane, open."}
+{"n":219,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north slip. arc left open. 5 steps. The rebar stays for the start."}
+{"n":220,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at Clinic roof. Nobody past the north slip. We start in 6 steps. Arc on the left lane, open."}
