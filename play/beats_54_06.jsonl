@@ -104,3 +104,6 @@
 {"n":104,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at Kessler alley. Nobody past the east slip. We start in 3 steps. Arc on the left lane, open."}
 {"n":105,"kind":"place","name":"Kessler alley east slip","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley east slip. Nia keeps the radio coil for the start. 4 steps, arc on the left lane, open."}
 {"n":106,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east slip. arc left open. 5 steps. The radio coil stays for the start."}
+{"n":107,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at Kessler alley. Nobody past the east slip. We start in 6 steps. Arc on the left lane, open."}
+{"n":108,"kind":"place","name":"Kessler alley east slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley east slip. Ivo keeps the radio coil for the start. 7 steps, arc on the left lane, open."}
+{"n":109,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east slip. arc left open. 8 steps. The radio coil stays for the start."}
