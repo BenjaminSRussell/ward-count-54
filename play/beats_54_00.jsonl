@@ -38,3 +38,6 @@
 {"n":38,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at High line. Nobody past the north roof. We start in 6 steps. Arc on the left lane, open."}
 {"n":39,"kind":"place","name":"High line north roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line north roof. Bess keeps the badge door for the start. 7 steps, arc on the left lane, open."}
 {"n":40,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north roof. arc left open. 8 steps. The badge door stays for the start."}
+{"n":41,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at Ward gate. Nobody past the north roof. We start in 2 steps. Arc on the left lane, open."}
+{"n":42,"kind":"place","name":"Ward gate north roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate north roof. Matt keeps the radio coil for the start. 3 steps, arc on the left lane, open."}
+{"n":43,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north roof. arc left open. 4 steps. The radio coil stays for the start."}
