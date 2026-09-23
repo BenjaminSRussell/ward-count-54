@@ -871,3 +871,6 @@
 {"n":871,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at South stair. Nobody past the north slip. We start in 6 steps. Arc on the left lane, open."}
 {"n":872,"kind":"place","name":"South stair north slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair north slip. Ivo keeps the drum for the start. 7 steps, arc on the left lane, open."}
 {"n":873,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north slip. arc left open. 8 steps. The drum stays for the start."}
+{"n":874,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at South stair. Nobody past the north slip. We start in 2 steps. Arc on the left lane, open."}
+{"n":875,"kind":"place","name":"South stair north slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair north slip. Bess keeps the drum for the start. 3 steps, arc on the left lane, open."}
+{"n":876,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north slip. arc left open. 4 steps. The drum stays for the start."}
