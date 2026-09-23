@@ -471,3 +471,6 @@
 {"n":471,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north slip. arc left open. 5 steps. The shutter stays for the start."}
 {"n":472,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at Stockyard fence. Nobody past the north slip. We start in 6 steps. Arc on the left lane, open."}
 {"n":473,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence north slip. Nia keeps the shutter for the start. 7 steps, arc on the left lane, open."}
+{"n":474,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north slip. arc left open. 8 steps. The shutter stays for the start."}
+{"n":475,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at Stockyard fence. Nobody past the north slip. We start in 2 steps. Arc on the left lane, open."}
+{"n":476,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence north slip. Ivo keeps the shutter for the start. 3 steps, arc on the left lane, open."}
