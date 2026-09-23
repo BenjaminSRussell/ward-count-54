@@ -787,3 +787,6 @@
 {"n":787,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at Kessler alley. Nobody past the north slip. We start in 6 steps. Arc on the left lane, open."}
 {"n":788,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley north slip. Ivo keeps the drum for the start. 7 steps, arc on the left lane, open."}
 {"n":789,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north slip. arc left open. 8 steps. The drum stays for the start."}
+{"n":790,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at Kessler alley. Nobody past the north slip. We start in 2 steps. Arc on the left lane, open."}
+{"n":791,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley north slip. Bess keeps the drum for the start. 3 steps, arc on the left lane, open."}
+{"n":792,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north slip. arc left open. 4 steps. The drum stays for the start."}
