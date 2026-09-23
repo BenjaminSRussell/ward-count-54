@@ -488,3 +488,6 @@
 {"n":488,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, south slip. arc left open. 7 steps. The hydrant stays for the start."}
 {"n":489,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at Mall court. Nobody past the south slip. We start in 8 steps. Arc on the left lane, open."}
 {"n":490,"kind":"place","name":"Mall court south slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mall court south slip. Matt keeps the hydrant for the start. 2 steps, arc on the left lane, open."}
+{"n":491,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, south slip. arc left open. 3 steps. The hydrant stays for the start."}
+{"n":492,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at Mall court. Nobody past the south slip. We start in 4 steps. Arc on the left lane, open."}
+{"n":493,"kind":"place","name":"Mall court south slip","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mall court south slip. Nia keeps the hydrant for the start. 5 steps, arc on the left lane, open."}
