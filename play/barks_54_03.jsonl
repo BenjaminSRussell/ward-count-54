@@ -105,3 +105,6 @@
 {"n":105,"kind":"place","name":"Stockyard fence west slip","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence west slip. Nia keeps the rebar for the start. 7 steps, arc on the left lane, open."}
 {"n":106,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, west slip. arc left open. 8 steps. The rebar stays for the start."}
 {"n":107,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at Stockyard fence. Nobody past the west slip. We start in 2 steps. Arc on the left lane, open."}
+{"n":108,"kind":"place","name":"Stockyard fence west slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence west slip. Ivo keeps the rebar for the start. 3 steps, arc on the left lane, open."}
+{"n":109,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west slip. arc left open. 4 steps. The rebar stays for the start."}
+{"n":110,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at Stockyard fence. Nobody past the west slip. We start in 5 steps. Arc on the left lane, open."}
