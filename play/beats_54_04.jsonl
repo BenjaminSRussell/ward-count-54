@@ -550,3 +550,6 @@
 {"n":550,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at Switchyard. Nobody past the east slip. We start in 3 steps. Arc on the left lane, open."}
 {"n":551,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard east slip. Bess keeps the hydrant for the start. 4 steps, arc on the left lane, open."}
 {"n":552,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east slip. arc left open. 5 steps. The hydrant stays for the start."}
+{"n":553,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at Drydock. Nobody past the east slip. We start in 6 steps. Arc on the left lane, open."}
+{"n":554,"kind":"place","name":"Drydock east slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock east slip. Matt keeps the hydrant for the start. 7 steps, arc on the left lane, open."}
+{"n":555,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east slip. arc left open. 8 steps. The hydrant stays for the start."}
