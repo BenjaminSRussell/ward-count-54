@@ -995,3 +995,6 @@
 {"n":995,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at Last Light. Nobody past the west slip. We start in 8 steps. Arc on the left lane, open."}
 {"n":996,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Last Light west slip. Ivo keeps the badge door for the start. 2 steps, arc on the left lane, open."}
 {"n":997,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, west slip. arc left open. 3 steps. The badge door stays for the start."}
+{"n":998,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at Last Light. Nobody past the west slip. We start in 4 steps. Arc on the left lane, open."}
+{"n":999,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Last Light west slip. Bess keeps the badge door for the start. 5 steps, arc on the left lane, open."}
+{"n":1000,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, west slip. arc left open. 6 steps. The badge door stays for the start."}
