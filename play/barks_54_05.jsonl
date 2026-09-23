@@ -604,3 +604,6 @@
 {"n":604,"kind":"place","name":"Kessler alley east slip","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley east slip. Ivo keeps the awning for the start. 7 steps, arc on the left lane, open."}
 {"n":605,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east slip. arc left open. 8 steps. The awning stays for the start."}
 {"n":606,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at Kessler alley. Nobody past the east slip. We start in 2 steps. Arc on the left lane, open."}
+{"n":607,"kind":"place","name":"Kessler alley east slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley east slip. Bess keeps the awning for the start. 3 steps, arc on the left lane, open."}
+{"n":608,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east slip. arc left open. 4 steps. The awning stays for the start."}
+{"n":609,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the awning at the Lot. Nobody past the east slip. We start in 5 steps. Arc on the left lane, open."}
