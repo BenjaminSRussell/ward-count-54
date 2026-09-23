@@ -978,3 +978,6 @@
 {"n":978,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Mast yard. Nobody past the west slip. We start in 6 steps. Arc on the left lane, open."}
 {"n":979,"kind":"place","name":"Mast yard west slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard west slip. Bess keeps the lamp for the start. 7 steps, arc on the left lane, open."}
 {"n":980,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west slip. arc left open. 8 steps. The lamp stays for the start."}
+{"n":981,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Last Light. Nobody past the west slip. We start in 2 steps. Arc on the left lane, open."}
+{"n":982,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light west slip. Matt keeps the lamp for the start. 3 steps, arc on the left lane, open."}
+{"n":983,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west slip. arc left open. 4 steps. The lamp stays for the start."}
