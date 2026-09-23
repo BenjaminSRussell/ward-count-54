@@ -440,3 +440,6 @@
 {"n":440,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east slip. arc left open. 4 steps. The shutter stays for the start."}
 {"n":441,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at the Lot. Nobody past the east slip. We start in 5 steps. Arc on the left lane, open."}
 {"n":442,"kind":"place","name":"the Lot east slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot east slip. Matt keeps the shutter for the start. 6 steps, arc on the left lane, open."}
+{"n":443,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east slip. arc left open. 7 steps. The shutter stays for the start."}
+{"n":444,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at the Lot. Nobody past the east slip. We start in 8 steps. Arc on the left lane, open."}
+{"n":445,"kind":"place","name":"the Lot east slip","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Lot east slip. Nia keeps the shutter for the start. 2 steps, arc on the left lane, open."}
