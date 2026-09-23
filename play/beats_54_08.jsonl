@@ -42,3 +42,6 @@
 {"n":42,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at South stair. Nobody past the north slip. We start in 2 steps. Arc on the left lane, open."}
 {"n":43,"kind":"place","name":"South stair north slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"South stair north slip. Bess keeps the badge door for the start. 3 steps, arc on the left lane, open."}
 {"n":44,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north slip. arc left open. 4 steps. The badge door stays for the start."}
+{"n":45,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the badge door at the pier. Nobody past the north slip. We start in 5 steps. Arc on the left lane, open."}
+{"n":46,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the pier north slip. Matt keeps the badge door for the start. 6 steps, arc on the left lane, open."}
+{"n":47,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, north slip. arc left open. 7 steps. The badge door stays for the start."}
