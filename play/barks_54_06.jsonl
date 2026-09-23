@@ -276,3 +276,6 @@
 {"n":276,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley north slip. Ivo keeps the plywood for the start. 7 steps, arc on the left lane, open."}
 {"n":277,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north slip. arc left open. 8 steps. The plywood stays for the start."}
 {"n":278,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Kessler alley. Nobody past the north slip. We start in 2 steps. Arc on the left lane, open."}
+{"n":279,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley north slip. Bess keeps the plywood for the start. 3 steps, arc on the left lane, open."}
+{"n":280,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north slip. arc left open. 4 steps. The plywood stays for the start."}
+{"n":281,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at the Lot. Nobody past the north slip. We start in 5 steps. Arc on the left lane, open."}
