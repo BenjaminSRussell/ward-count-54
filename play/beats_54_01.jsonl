@@ -634,3 +634,6 @@
 {"n":634,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at Mast yard. Nobody past the south roof. We start in 6 steps. Arc on the left lane, open."}
 {"n":635,"kind":"place","name":"Mast yard south roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard south roof. Bess keeps the awning for the start. 7 steps, arc on the left lane, open."}
 {"n":636,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south roof. arc left open. 8 steps. The awning stays for the start."}
+{"n":637,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the awning at Last Light. Nobody past the south roof. We start in 2 steps. Arc on the left lane, open."}
+{"n":638,"kind":"place","name":"Last Light south roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Last Light south roof. Matt keeps the awning for the start. 3 steps, arc on the left lane, open."}
+{"n":639,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south roof. arc left open. 4 steps. The awning stays for the start."}
