@@ -268,3 +268,6 @@
 {"n":268,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rope at Mall court. Nobody past the south roof. We start in 4 steps. Arc on the left lane, open."}
 {"n":269,"kind":"place","name":"Mall court south roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mall court south roof. Nia keeps the rope for the start. 5 steps, arc on the left lane, open."}
 {"n":270,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south roof. arc left open. 6 steps. The rope stays for the start."}
+{"n":271,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rope at Mall court. Nobody past the south roof. We start in 7 steps. Arc on the left lane, open."}
+{"n":272,"kind":"place","name":"Mall court south roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mall court south roof. Ivo keeps the rope for the start. 8 steps, arc on the left lane, open."}
+{"n":273,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south roof. arc left open. 2 steps. The rope stays for the start."}
