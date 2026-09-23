@@ -520,3 +520,6 @@
 {"n":520,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north slip. arc left open. 6 steps. The hydrant stays for the start."}
 {"n":521,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at South stair. Nobody past the north slip. We start in 7 steps. Arc on the left lane, open."}
 {"n":522,"kind":"place","name":"South stair north slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"South stair north slip. Matt keeps the hydrant for the start. 8 steps, arc on the left lane, open."}
+{"n":523,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north slip. arc left open. 2 steps. The hydrant stays for the start."}
+{"n":524,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at South stair. Nobody past the north slip. We start in 3 steps. Arc on the left lane, open."}
+{"n":525,"kind":"place","name":"South stair north slip","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"South stair north slip. Nia keeps the hydrant for the start. 4 steps, arc on the left lane, open."}
