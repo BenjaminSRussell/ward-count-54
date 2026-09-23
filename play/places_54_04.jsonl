@@ -108,3 +108,6 @@
 {"n":108,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west slip. arc left open. 2 steps. The radio coil stays for the start."}
 {"n":109,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at Stockyard fence. Nobody past the west slip. We start in 3 steps. Arc on the left lane, open."}
 {"n":110,"kind":"place","name":"Stockyard fence west slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence west slip. Matt keeps the radio coil for the start. 4 steps, arc on the left lane, open."}
+{"n":111,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, west slip. arc left open. 5 steps. The radio coil stays for the start."}
+{"n":112,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at Stockyard fence. Nobody past the west slip. We start in 6 steps. Arc on the left lane, open."}
+{"n":113,"kind":"place","name":"Stockyard fence west slip","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence west slip. Nia keeps the radio coil for the start. 7 steps, arc on the left lane, open."}
