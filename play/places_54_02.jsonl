@@ -938,3 +938,6 @@
 {"n":938,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, west slip. arc left open. 8 steps. The lamp stays for the start."}
 {"n":939,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Stockyard fence. Nobody past the west slip. We start in 2 steps. Arc on the left lane, open."}
 {"n":940,"kind":"place","name":"Stockyard fence west slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Stockyard fence west slip. Ivo keeps the lamp for the start. 3 steps, arc on the left lane, open."}
+{"n":941,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west slip. arc left open. 4 steps. The lamp stays for the start."}
+{"n":942,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Stockyard fence. Nobody past the west slip. We start in 5 steps. Arc on the left lane, open."}
+{"n":943,"kind":"place","name":"Stockyard fence west slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Stockyard fence west slip. Bess keeps the lamp for the start. 6 steps, arc on the left lane, open."}
