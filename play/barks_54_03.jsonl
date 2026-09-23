@@ -213,3 +213,6 @@
 {"n":213,"kind":"place","name":"Drydock west slip","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock west slip. Nia keeps the rebar for the start. 3 steps, arc on the left lane, open."}
 {"n":214,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west slip. arc left open. 4 steps. The rebar stays for the start."}
 {"n":215,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at Drydock. Nobody past the west slip. We start in 5 steps. Arc on the left lane, open."}
+{"n":216,"kind":"place","name":"Drydock west slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock west slip. Ivo keeps the rebar for the start. 6 steps, arc on the left lane, open."}
+{"n":217,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west slip. arc left open. 7 steps. The rebar stays for the start."}
+{"n":218,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at Drydock. Nobody past the west slip. We start in 8 steps. Arc on the left lane, open."}
